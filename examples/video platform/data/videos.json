@@ -2,8 +2,8 @@
     {
         "id": 1,
         "title": "Time Scapes",
-        "thumbnail": "../../tests/assets/timeScapesThumb.png",
-        "url": "https://drive.google.com/file/d/13fd2Nx_sLtx2GXsrcysCefeSfh_ocHQB/preview",
+        "thumbnail": "https://sankaramoorthy-developer.github.io/GALLERY/examples/video%20platform/videos/intro.jpg",
+        "url": "https://sankaramoorthy-developer.github.io/GALLERY/examples/video%20platform/videos/intro.mp4",
         "vr": false,
         "lenght": "2:12",
         "views": "1,623,588",
