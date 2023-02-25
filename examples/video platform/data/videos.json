@@ -100,20 +100,19 @@
   },
     {
         "id": 7,
-        "title": "SRM VADAPALANI 8th ANNUAL DAY",
-        "thumbnail": "https://sankaramoorthy-developer.github.io/GALLERY/examples/video%20platform/videos/news.jpg",
-        "url": "https://sankaramoorthy-developer.github.io/GALLERY/examples/video%20platform/videos/news.mp4",
+        "title": "A Space Journey (HD)",
+        "thumbnail": "./images/A Space Journey (HD) thumb.png",
+        "url": "./videos/A Space Journey (HD).mp4",
         "vr": false,
         "lenght": "8:58",
         "views": "3,760,754",
         "uploadDate": "Apr 29, 2011",
         "likes": "22K",
         "dislikes": "795",
-        "channel": "Vendhar News",
-        "channelAvatar": "https://sankaramoorthy-developer.github.io/GALLERY/examples/video%20platform/videos/logo.png",
+        "channel": "Impermanence",
+        "channelAvatar": "./images/avatar3.gif",
         "channelSubscribers": "8.05K",
-        "description": "From Vendhar media: the Footage.Download in 4k:<br><a href='http://www.vendharmedia.in/'>http://www.vendharmedia.in/</a><br><br>  SRM a name synonymous with quality is a fact well known among the people of Tamil Nadu and beyond. Beginning their humble journey from an educational institute, the SRM group has achieved stupendous success in diverse fields including hospitals, transport, power & energy, hotels, technology among others, and have become an inevitable powerhouse with a reputation of being a brand name that spells quality and trust. After etching the walls of history with their triumph in all major fields, SRM group has cemented its presence in the entertainment sector through Vendhar TV, a 24/7 GEC channel Staying true to our motto, There is a bit of everything for everybody, Vendhar TV has taken extreme measures to cater to all age-groups and gender markets resulting in programs that are both, enthralling and entertaining.
-        .<br><br>Copyrights by VENDHAR MEDIA:<br><a href='http://www.vendharmedia.in/'>http://www.vendharmedia.in/</a>"
+        "description": "A small tribute to the Hubble Space Telescope<br><a href='http://www.spacetelescope.org'>http://www.spacetelescope.org</a><br>Music by David Schombert:<br>- Earth:<br><a href='http://www.jamendo.com/en/track/2239/'>http://www.jamendo.com/en/track/2239/...</a><br>- Nebulae:<br><a href='http://www.jamendo.com/en/track/2242/'>http://www.jamendo.com/en/track/2242/...</a><br>Main characters:<br>The Solar System<br>Earth<br>NGC3603<br>Orion Nebula<br>Veil Nebula<br>Large Magellanic Cloud"
     },
     {
         "id": 8,
