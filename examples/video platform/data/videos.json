@@ -33,19 +33,19 @@
     },
     {
         "id": 3,
-        "title": "A Space Journey (HD)",
-        "thumbnail": "./images/A Space Journey (HD) thumb.png",
-        "url": "./videos/pitchs.mp4",
+        "title": "SRM-CULT",
+        "thumbnail": "https://sankaramoorthy-developer.github.io/GALLERY/examples/video%20platform/videos/intra.jpg",
+        "url": "https://sankaramoorthy-developer.github.io/GALLERY/examples/video%20platform/videos/intra.mp4",
         "vr": false,
         "lenght": "8:58",
         "views": "3,760,754",
         "uploadDate": "Apr 29, 2011",
         "likes": "22K",
         "dislikes": "795",
-        "channel": "Impermanence",
-        "channelAvatar": "./images/avatar3.gif",
-        "channelSubscribers": "8.05K",
-        "description": "A small tribute to the Hubble Space Telescope<br><a href='http://www.spacetelescope.org'>http://www.spacetelescope.org</a><br>Music by David Schombert:<br>- Earth:<br><a href='http://www.jamendo.com/en/track/2239/'>http://www.jamendo.com/en/track/2239/...</a><br>- Nebulae:<br><a href='http://www.jamendo.com/en/track/2242/'>http://www.jamendo.com/en/track/2242/...</a><br>Main characters:<br>The Solar System<br>Earth<br>NGC3603<br>Orion Nebula<br>Veil Nebula<br>Large Magellanic Cloud"
+        "channel": "SRM VADAPALANI",
+        "channelAvatar": "https://sankaramoorthy-developer.github.io/GALLERY/examples/video%20platform/videos/srmyoutube.jpg",
+        "channelSubscribers": "11.6K",
+        "description": "From SRMUNIVERSITY: the Footage.Download in 4k:<br><a href='https://www.srmistvdp.edu.in/'>https://www.srmistvdp.edu.in/</a><br><br>City Campus of SRM Institute of Science and Technology is located in a sprawling campus of more than 5 acres and located at the heart of the metropolitan city of Chennai. It is well connected by road, rail and air. Apart from public transport, college buses are also available for transporting the staff and students from various places in the city.<br><br>Copyrights by SRMIST:<br><a href='https://www.srmistvdp.edu.in/'>https://www.srmistvdp.edu.in/</a>"
     },
     {
         "id": 4,
