@@ -66,8 +66,8 @@
     },
     {
         "id": 5,
-        "title": "360 Bavarian Alps",
-        "thumbnail": "./images/360 VR Master Series Free Asset Download Bavarian Alps Wimbachklamm thumb.png",
+        "title": "SRM-ANNUAL-EVENTS",
+        "thumbnail": "https://sankaramoorthy-developer.github.io/GALLERY/examples/video%20platform/videos/eves.jpg",
         "url": "./videos/360 VR Master Series Free Asset Download Bavarian Alps Wimbachklamm.mp4",
         "vr": true,
         "vrRotate": 270,
