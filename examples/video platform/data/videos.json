@@ -117,8 +117,8 @@
      },
     {
         "id": 8,
- "title": "SRM VADAPALANI DANCE COMPETITION",
-        "thumbnail": "https://sankaramoorthy-developer.github.io/GALLERY/examples/video%20platform/videos/eves.jpg",
+        "title": "Time Scapes",
+        "thumbnail": "../../tests/assets/timeScapesThumb.png",
         "url": "../../tests/assets/timeScapes.mp4",
         "vr": false,
         "lenght": "2:12",
