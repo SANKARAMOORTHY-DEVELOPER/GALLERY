@@ -83,8 +83,8 @@
     },
     {
         "id": 6,
-        "title": "360 London Park Ducks Swans",
-        "thumbnail": "./images/360 VR Master Series Free Download London Park Ducks Swans thumb.png",
+        "title": "INTRACULT-SRM",
+        "thumbnail": "https://sankaramoorthy-developer.github.io/GALLERY/examples/video%20platform/videos/event4k.jpg",
         "url": "./videos/360 VR Master Series Free Download London Park Ducks Swans.mp4",
         "vr": true,
         "vrRotate": 270,
@@ -100,8 +100,8 @@
     },
     {
         "id": 7,
-        "title": "A Space Journey (HD)",
-        "thumbnail": "./images/A Space Journey (HD) thumb.png",
+        "title": "SRM VADAPALANI 8th ANNUAL DAY",
+        "thumbnail": "https://sankaramoorthy-developer.github.io/GALLERY/examples/video%20platform/videos/news.jpg",
         "url": "./videos/A Space Journey (HD).mp4",
         "vr": false,
         "lenght": "8:58",
