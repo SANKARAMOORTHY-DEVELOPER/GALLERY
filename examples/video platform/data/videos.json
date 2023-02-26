@@ -83,9 +83,9 @@
     },
     {
         "id": 6,
-        "title": "INTRACULT-SRM",
-        "thumbnail": "https://sankaramoorthy-developer.github.io/GALLERY/examples/video%20platform/videos/event4k.jpg",
-        "url": "https://sankaramoorthy-developer.github.io/GALLERY/examples/video%20platform/videos/event4k.mp4",
+        "title": "360 London Park Ducks Swans",
+        "thumbnail": "./images/360 VR Master Series Free Download London Park Ducks Swans thumb.png",
+        "url": "./videos/360 VR Master Series Free Download London Park Ducks Swans.mp4",
         "vr": true,
         "vrRotate": 270,
         "lenght": "1:05",
@@ -93,11 +93,11 @@
         "uploadDate": "May 1, 2017",
         "likes": "4.7k",
         "dislikes": "102",
-        "channel": "SRM VADAPALANI",
-        "channelAvatar": "https://sankaramoorthy-developer.github.io/GALLERY/examples/video%20platform/videos/srmyoutube.jpg",
-        "channelSubscribers": "11.6K",
-        "description": "From SRMUNIVERSITY: the Footage.Download in 4k:<br><a href='https://www.srmistvdp.edu.in/'>https://www.srmistvdp.edu.in/</a><br><br>City Campus of SRM Institute of Science and Technology is located in a sprawling campus of more than 5 acres and located at the heart of the metropolitan city of Chennai. It is well connected by road, rail and air. Apart from public transport, college buses are also available for transporting the staff and students from various places in the city.<br><br>Copyrights by SRMIST:<br><a href='https://www.srmistvdp.edu.in/'>https://www.srmistvdp.edu.in/</a>"
-  },
+        "channel": "Stock 360",
+        "channelAvatar": "./images/avatar4.gif",
+        "channelSubscribers": "33.47K",
+        "description": "There are many parks and open spaces in Greater London, England. Green space in central London consists of five of the capital's eight Royal Parks, supplemented by a number of small garden squares scattered throughout the city centre. Open space in the rest of the region is dominated by the remaining three Royal Parks.<br>All the 360 assets for download are available here:<br><a href='http://www.mettle.com/360vr-master-series-free-360-downloads-page/'>mettle.com/360vr-master-series-free-360-downloads-page/</a>"
+    },
     {
         "id": 7,
         "title": "A Space Journey (HD)",
