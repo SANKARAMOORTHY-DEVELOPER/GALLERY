@@ -100,8 +100,8 @@
     },
     {
         "id": 7,
-        "title": "A Space Journey (HD)",
-        "thumbnail": "./images/A Space Journey (HD) thumb.png",
+        "title": "SRM VADAPALANI 8th ANNUAL DAY",
+        "thumbnail": "https://sankaramoorthy-developer.github.io/GALLERY/examples/video%20platform/videos/news.jpg",
         "url": "./videos/A Space Journey (HD).mp4",
         "vr": false,
         "lenght": "8:58",
@@ -109,15 +109,16 @@
         "uploadDate": "Apr 29, 2011",
         "likes": "22K",
         "dislikes": "795",
-        "channel": "Impermanence",
-        "channelAvatar": "./images/avatar3.gif",
+        "channel": "Vendhar News",
+        "channelAvatar": "https://sankaramoorthy-developer.github.io/GALLERY/examples/video%20platform/videos/logo.png",
         "channelSubscribers": "8.05K",
-        "description": "A small tribute to the Hubble Space Telescope<br><a href='http://www.spacetelescope.org'>http://www.spacetelescope.org</a><br>Music by David Schombert:<br>- Earth:<br><a href='http://www.jamendo.com/en/track/2239/'>http://www.jamendo.com/en/track/2239/...</a><br>- Nebulae:<br><a href='http://www.jamendo.com/en/track/2242/'>http://www.jamendo.com/en/track/2242/...</a><br>Main characters:<br>The Solar System<br>Earth<br>NGC3603<br>Orion Nebula<br>Veil Nebula<br>Large Magellanic Cloud"
+        "description": "From Vendhar media: the Footage.Download in 4k:<br><a href='http://www.vendharmedia.in/'>http://www.vendharmedia.in/</a><br><br>  SRM a name synonymous with quality is a fact well known among the people of Tamil Nadu and beyond. Beginning their humble journey from an educational institute, the SRM group has achieved stupendous success in diverse fields including hospitals, transport, power & energy, hotels, technology among others, and have become an inevitable powerhouse with a reputation of being a brand name that spells quality and trust. After etching the walls of history with their triumph in all major fields, SRM group has cemented its presence in the entertainment sector through Vendhar TV, a 24/7 GEC channel Staying true to our motto, There is a bit of everything for everybody, Vendhar TV has taken extreme measures to cater to all age-groups and gender markets resulting in programs that are both, enthralling and entertaining.
+        .<br><br>Copyrights by VENDHAR MEDIA:<br><a href='http://www.vendharmedia.in/'>http://www.vendharmedia.in/</a>"
     },
     {
         "id": 8,
-        "title": "Time Scapes",
-        "thumbnail": "../../tests/assets/timeScapesThumb.png",
+        "title": "SRM VADAPALANI DANCE COMPETITION",
+        "thumbnail": "https://sankaramoorthy-developer.github.io/GALLERY/examples/video%20platform/videos/eves.jpg",
         "url": "../../tests/assets/timeScapes.mp4",
         "vr": false,
         "lenght": "2:12",
@@ -142,15 +143,15 @@
         "uploadDate": "May 2, 2017",
         "likes": "5.1K",
         "dislikes": "56",
-        "channel": "Stock 360",
-        "channelAvatar": "./images/avatar4.gif",
-        "channelSubscribers": "33.47K",
-        "description": "Pebble Beach is an unincorporated community on the Monterey Peninsula in Monterey County, California. The small coastal residential community of mostly single-family homes is also notable as a resort destination, and the home of the golf courses of Cypress Point Club, Monterey Peninsula Country Club, and Pebble Beach Golf Links.<br><br>All the 360 assets for download are available here:<br><a href='http://www.mettle.com/360vr-master-series-free-360-downloads-page/'>mettle.com/360vr-master-series-free-360-downloads-page/</a>"
+        "channel": "SRM VADAPALANI",
+        "channelAvatar": "https://sankaramoorthy-developer.github.io/GALLERY/examples/video%20platform/videos/srmyoutube.jpg",
+        "channelSubscribers": "11.6K",
+        "description": "From SRMUNIVERSITY: the Footage.Download in 4k:<br><a href='https://www.srmistvdp.edu.in/'>https://www.srmistvdp.edu.in/</a><br><br>City Campus of SRM Institute of Science and Technology is located in a sprawling campus of more than 5 acres and located at the heart of the metropolitan city of Chennai. It is well connected by road, rail and air. Apart from public transport, college buses are also available for transporting the staff and students from various places in the city.<br><br>Copyrights by SRMIST:<br><a href='https://www.srmistvdp.edu.in/'>https://www.srmistvdp.edu.in/</a>"
     },
     {
-        "id": 10,
-        "title": "360 London Park Ducks Swans",
-        "thumbnail": "./images/360 VR Master Series Free Download London Park Ducks Swans thumb.png",
+        "id": 9,
+        "title": "SRM INDUCATION",
+        "thumbnail": "https://sankaramoorthy-developer.github.io/GALLERY/examples/video%20platform/videos/sada.jpg",
         "url": "./videos/360 VR Master Series Free Download London Park Ducks Swans.mp4",
         "vr": true,
         "vrRotate": 270,
