@@ -116,8 +116,8 @@
     },
     {
         "id": 8,
-        "title": "Time Scapes",
-        "thumbnail": "../../tests/assets/timeScapesThumb.png",
+        "title": "SRM VADAPALANI DANCE COMPETITION",
+        "thumbnail": "https://sankaramoorthy-developer.github.io/GALLERY/examples/video%20platform/videos/eves.jpg",
         "url": "../../tests/assets/timeScapes.mp4",
         "vr": false,
         "lenght": "2:12",
@@ -132,8 +132,8 @@
     },
     {
         "id": 9,
-        "title": "360 Pebbly Beach Headland",
-        "thumbnail": "./images/360 VR Master Series Free Download Pebbly Beach Headland thumb.png",
+        "title": "SRM INDUCATION",
+        "thumbnail": "https://sankaramoorthy-developer.github.io/GALLERY/examples/video%20platform/videos/sada.jpg",
         "url": "./videos/360 VR Master Series Free Download Pebbly Beach Headland.mp4",
         "vr": true,
         "vrRotate": 0,
