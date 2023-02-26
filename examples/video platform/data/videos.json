@@ -83,9 +83,9 @@
     },
     {
         "id": 6,
-        "title": "INTRACULT-SRM",
-        "thumbnail": "https://sankaramoorthy-developer.github.io/GALLERY/examples/video%20platform/videos/event4k.jpg",
-        "url": "https://sankaramoorthy-developer.github.io/GALLERY/examples/video%20platform/videos/gfg",
+        "title": "360 London Park Ducks Swans",
+        "thumbnail": "./images/360 VR Master Series Free Download London Park Ducks Swans thumb.png",
+        "url": "./videos/360 VR Master Series Free Download London Park Ducks Swans.mp4",
         "vr": true,
         "vrRotate": 270,
         "lenght": "1:05",
